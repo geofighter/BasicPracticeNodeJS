@@ -1,0 +1,4 @@
+npm init
+npm i nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier -D
+npm run dev
+npm i express
